@@ -1,4 +1,6 @@
-# `2^11` (`=2048`) written in Rust
+# `2^11` (`=2048`) game written in Rust
+
+Play with `cargo run`.
 
 Use the arrow-keys to slide the tiles around.
 This line in `main.rs` defines the board size:
