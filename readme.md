@@ -1,4 +1,4 @@
-# `2^11` (`=2048``) written in Rust
+# `2^11` (`=2048`) written in Rust
 
 Use the arrow-keys to slide the tiles around.
 This line in `main.rs` defines the board size:
